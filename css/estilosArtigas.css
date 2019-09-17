@@ -1,0 +1,52 @@
+.navbar {
+    box-shadow: 2px 2px 5px gray;
+}
+
+.navbar .nav-item .nav-link {
+    color: white;
+}
+
+.main_header {
+    position: relative;
+    background: url(../img/clarinTapa.png);
+    background-size: cover;
+    min-height: 500px;
+}
+
+.bg_overlay {
+    position: absolute;
+    background: rgba(230, 230, 230, .7);
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.logo {
+    opacity: 0.75;
+    border-radius: 25px;
+}
+
+.fondoTitulo {
+    background: #d90000;
+}
+
+.color1 {
+    background: #d90000;
+}
+
+.color2 {
+    background: #9b9e9e;
+}
+
+.color3 {
+    background: #6dd900;
+}
+
+.color4 {
+    background: #6d00d9;
+}
+
+.card {
+    margin-bottom: 5px;
+}
