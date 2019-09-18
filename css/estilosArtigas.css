@@ -50,3 +50,12 @@
 .card {
     margin-bottom: 5px;
 }
+
+.mapa {
+    background: white;
+    color: black;
+}
+
+.mapa p {
+    margin: 10px;
+}
