@@ -59,3 +59,17 @@
 .mapa p {
     margin: 10px;
 }
+
+.irArriba {
+    display: inline-block;
+    background: black;
+    padding: 10px;
+    font-size: 25px;
+    color: white;
+    /*  cursor: pointer;*/
+    position: fixed;
+    z-index: 1;
+    bottom: 0px;
+    right: 0px;
+    text-decoration: white;
+}
