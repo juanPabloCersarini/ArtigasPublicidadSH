@@ -1,0 +1,10 @@
+.tbl {
+    position: relative;
+    margin: auto;
+    width: 100%;
+    left: 5%;
+}
+
+.tbl1 {
+    top: -270px;
+}
